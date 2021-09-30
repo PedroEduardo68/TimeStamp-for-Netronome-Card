@@ -14,7 +14,10 @@
 </h4>
 
 <p align="center">
-![pod-topo](./figura.png)
+	
+<p align="center">
+  <img src="./figura.png" width="500" title="command">
+</p>
 
  Comando 1 : tem a função de alterar os valores em segundos do tempo;
  
